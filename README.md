@@ -50,3 +50,6 @@ lint
 ```
 yarn lint
 ```
+
+live demo
+https://stackblitz.com/edit/react-boilerplate-vite-redux-routing
