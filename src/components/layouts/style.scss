@@ -1,0 +1,30 @@
+.admin-layout {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.admin-page {
+  display: flex;
+  flex: 1;
+
+  .site-nav {
+    width: 300px;
+    border-right: 1px solid #ddd;
+    margin-right: 1rem;
+  }
+
+  .contents-area {
+    flex: 1;
+  }
+}
+
+.admin-page-header {
+    border-bottom: 1px solid #ddd;
+
+    .header-title {
+        margin-top: 0;
+        margin-bottom: 0;
+        line-height: 1.6em;
+    }
+}

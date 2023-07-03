@@ -1,0 +1,15 @@
+.container {
+  max-width: 1170px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.menu {
+  li {
+    margin: 10px;
+  }
+
+  a.active {
+    color: #f00;
+  }
+}
